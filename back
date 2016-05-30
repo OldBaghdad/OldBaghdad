@@ -1,0 +1,30 @@
+<html>
+<head>
+<style >
+#id{background-image:url("kahramana.jpg") ;height:1000px ; width:1000 px; 
+border-radius:10px 50px 100px 200px
+}
+
+
+ section + p {background-color: red}
+a{text-decoration:none;}
+a:link{color: red;}
+a:visited{color:orange;font-size:100pt;}
+a:hover{color: pink ; padding-bottom: 1000px}
+a:active{color:green;}
+</style>
+</head>
+<body>
+<section id="id"> Hi </section>
+<a href="yahoo.com">ssssss</a>
+<a href="yahoo2.com">ssss</a>
+
+<section>
+<p>wwww </p>
+<p>www</p>
+ </section>
+ <p>wwww </p>
+<p>www</p>
+</body>
+
+</html>
